@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Data Analyst Fernanda G Clemente</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="http://fernandagclemente.github.io/site_portfolio/feed" rel="self" type="application/rss+xml" />
+	<link>http://fernandagclemente.github.io/site_portfolio</link>
 	<description>Projeto de construção de um site em WordPress para apresentação dos trabalhos como Analista de Dados .</description>
-	<lastBuildDate>Fri, 07 Apr 2023 19:57:12 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Apr 2023 21:14:02 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>./../wp-content/uploads/2023/02/LogotipoSimples-Fernanda-Clemente-1.png</url>
+	<url>http://fernandagclemente.github.io/site_portfolio/wp-content/uploads/2023/02/LogotipoSimples-Fernanda-Clemente-1.png</url>
 	<title>Data Analyst Fernanda G Clemente</title>
-	<link>./../index.html</link>
+	<link>http://fernandagclemente.github.io/site_portfolio</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

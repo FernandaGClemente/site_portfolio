@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comentários sobre Data Analyst Fernanda G Clemente	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<atom:link href="http://fernandagclemente.github.io/site_portfolio/comments/feed" rel="self" type="application/rss+xml" />
+	<link>http://fernandagclemente.github.io/site_portfolio</link>
 	<description>Projeto de construção de um site em WordPress para apresentação dos trabalhos como Analista de Dados .</description>
-	<lastBuildDate>Fri, 07 Apr 2023 19:57:12 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 07 Apr 2023 21:14:02 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
